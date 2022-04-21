@@ -18,7 +18,7 @@ The Metadata section includes two tabs: Submission and Identifiers.
 
 Submission includes the submission metadata, such as article title, abstract, contributors, and keywords.
 
-Identifies provides a space to add any public URL identifiers.
+Identifiers provides a space to add any public URL identifiers.
 
 ### <a name="editorial-history"></a>History
 

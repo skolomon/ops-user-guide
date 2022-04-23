@@ -12,7 +12,7 @@ Editorial and administrative users also have access to all published and archive
 
 ## <a name="new-submission"></a>Start A New Submission
 
-You can start a new submission by clicking the **New Submission** button which appears above each of the submission lists. For more information, see [Learning OJS 3: Submitting an Article](https://docs.pkp.sfu.ca/learning-ojs/en/authoring#submitting-an-article.
+You can start a new submission by clicking the **New Submission** button which appears above each of the submission lists. For more information, see [Learning OJS 3: Submitting an Article](https://docs.pkp.sfu.ca/learning-ojs/en/authoring#submitting-an-article).
 
 ## <a name="my-queue"></a>My Queue
 

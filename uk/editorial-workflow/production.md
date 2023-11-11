@@ -1,31 +1,31 @@
-# Production
-1. [Orientation](production#orientation)
-1. [Publishing the Submission](production#publish)
+# Виробництво
+1. [Орієнтація](production#orientation)
+1. [Публікація Подання](production#publish)
 
-During the Production stage, the editor assigns production assistants who will help prepare the final publication files, known as galleys. For more detailed information, see [Learning OJS 3: Production](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#production).
+На етапі виробництва редактор призначає помічників, які допомагатимуть підготувати остаточні файли для публікації, відомі як гранки. Для більш детальної інформації, див. [Вивчення OJS 3: Виробництво](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#production).
 
-## <a name="orientation"></a>Orientation
+## <a name="orientation"></a>Орієнтація
 
-The Production stage provides three panels to create files ready for publication.
+Етап виробництва містить три панелі для створення файлів, готових до публікації.
 
-### <a name="production-ready"></a>Production Ready Files
+### <a name="production-ready"></a>Файли, готові до публікації
 
-All files selected by the editor for production will appear here. These typically include files that have been prepared during the [Copyediting stage](copyediting). Production assistants will use these files to generate the final publication formats.
+Тут з’являться всі файли, відібрані редактором для виробництва. Зазвичай вони включають файли, підготовлені під час [етапу вичитування](copyediting). Асистенти виробництва використовуватимуть ці файли для створення остаточних форматів публікації.
 
-### <a name="production-discussions"></a>Production Discussions
+### <a name="production-discussions"></a>Обговорення виробництва
 
-Editors and production assistants can use this panel to initiate conversations if there are any details that need to be clarified before the final publication files can be created.
+Редактори та асистенти виробництва можуть використовувати цю панель, щоб ініціювати обговорення, якщо є якісь деталі, які потрібно уточнити, перш ніж можна буде створити остаточні файли публікації.
 
-### <a name="publication-formats"></a>Galleys
+### <a name="publication-formats"></a>Гранки
 
-Editors and production assistants can create galleys and upload a file for each galley. These typically represent separate publication formats, such as PDF and HTML.
+Редактори та асистенти виробництва можуть створювати гранки та завантажувати файл для кожної гранки. Зазвичай вони представляють окремі формати публікацій, наприклад PDF і HTML.
 
-### <a name="participants"></a>Participants
+### <a name="participants"></a>Учасники
 
-Editors can add production assistants or layout editors from this panel. [Learn more](../editorial-workflow#participants).
+З цієї панелі редактори можуть додавати асистентів виробництва або редакторів макета. [Дізнайтесь більше](../editorial-workflow#participants).
 
-## <a name="publish"></a>Publishing the Submission
+## <a name="publish"></a>Публікація подання
 
-Once you are ready to publish the submission, you must schedule it for publication in an issue.
+Коли ви будете готові опублікувати подання, ви повинні запланувати його публікацію у випуску.
 
-The **Schedule for Publication** button will allow you to select an forthcoming issue, set a publication date, attach licensing permissions, and add page numbers if desired.
+Кнопка **Запланувати публікацію** дозволить вам вибрати майбутній випуск, встановити дату публікації, додати дозвіл на ліцензування та додати номери сторінок, якщо потрібно.

@@ -1,22 +1,22 @@
-# Submission Stage
+# Етап подання
 
-1. Introduction
-1. [Editorial Actions](submission#editorial-actions)
+1. Вступ
+1. [Редакційні дії](submission#editorial-actions)
 
-During the Submission stage, the editor checks the submission files to decide whether it should begin the peer review process.
+На етапі подання редактор перевіряє файли подання, щоб вирішити, чи варто починати процес рецензування.
 
-The editor can assign a sub-editor to assist by using the **Participants** panel or open up a discussion with the author to answer any questions or concerns in the **Pre-Review Discussions** panel.
+Редактор може призначити підредактора для допомоги за допомогою панелі **Учасники** або розпочати обговорення з автором, щоб отримати відповіді на будь-які запитання чи проблеми в панелі **Обговорення перед рецензуванням**.
 
-## <a name="editorial-actions"></a>Editorial Actions
+## <a name="editorial-actions"></a>Редакційні дії
 
-### Send to Review
+### Надіслати на рецензування
 
-Send the submission on to the [Review stage](review), where it will be reviewed by peer reviewers.
+Передайте подання на [етап рецензування](review), де воно буде перевірене рецензентами.
 
-### Send to Copyediting
+### Надіслати на вичитування
 
-Send the submission forward to the [Copyediting stage](copyediting) if you'd like to skip the peer review process completely.
+Передайте подання на [Етап вичитування](copyediting), якщо ви хочете повністю пропустити процес рецензування.
 
-### Decline Submission
+### Відхилити подання
 
-Remove the submission from consideration and archive it.
+Зняти подання з розгляду та архівувати.

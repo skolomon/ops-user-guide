@@ -1,45 +1,45 @@
-# Editorial Workflow
+# Редакційний робочий процес
 
-1. [Managing Submission Details](editorial-workflow#manage-submission-details)
-1. [Editorial Actions](editorial-workflow#editorial-actions)
-1. [Participants](editorial-workflow#participants)
+1. [Керування деталями подання](editorial-workflow#manage-submission-details)
+1. [Редакційні дії](editorial-workflow#editorial-actions)
+1. [Учасники](editorial-workflow#participants)
 
-The editorial workflow allows you to usher a submission from initial evaluation through peer review, copyediting, and production, where the item is prepared for publication.
+Редакційний робочий процес дозволяє вам розпочати подання від початкової оцінки до рецензування, редагування та виробництва, де матеріал готується до публікації.
 
-Each tab on the workflow page provides you with the information, tools, and discussion panels you'll need to complete the tasks for that stage. You can [add participants](editorial-workflow#participants) to help you. And when your ready, you'll be presented with a range of [editorial actions](editorial-workflow#editorial-actions) appropriate to each stage. For more information, see [Learning OJS 3: Editorial Workflow](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow).
+Кожна вкладка на сторінці робочого процесу надає вам інформацію, інструменти та панелі обговорень, які знадобляться для виконання завдань на цьому етапі. Ви можете [додати учасників](editorial-workflow#participants) для допомоги вам. І коли ви будете готові, вам буде представлений ряд [редакційних дій](editorial-workflow#editorial-actions), відповідних кожному етапу. Для отримання додаткової інформації, див. [Вивчення OJS 3: Редакційний робочий процес](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow).
 
-## <a name="manage-submission-details"></a>Managing Submission Details
+## <a name="manage-submission-details"></a>Керування деталями подання
 
-Submission details appear at the top of the page. In this area, you'll also find tools to help you manage the submission's metadata and editorial history. The data attached to the submission from these tools persists across all stages.
+Редакційний робочий процес. У цій області ви також знайдете інструменти, які допоможуть вам керувати метаданими подання та редакційною історією. Дані, додані до подання за допомогою цих інструментів, зберігаються на всіх етапах.
 
-### <a name="metadata"></a>Metadata
+### <a name="metadata"></a>Метадані
 
-The Metadata section includes two tabs: Submission and Identifiers.
+Розділ «Метадані» містить дві вкладки: «Подання» та «Ідентифікатори».
 
-Submission includes the submission metadata, such as article title, abstract, contributors, and keywords.
+Подання містить такі метадані подання, як назва статті, анотація, учасники та ключові слова
 
-Identifiers provides a space to add any public URL identifiers.
+Ідентифікатори надають місце для додавання будь-яких загальнодоступних ідентифікаторів URL-адрес.
 
-### <a name="editorial-history"></a>History
+### <a name="editorial-history"></a>Історія
 
-Add notes for record-keeping and view a log of all events associated with this submission. Only editorial and administrative staff have access to the Editorial History.
+Додайте примітки для ведення записів і перегляньте журнал усіх подій, пов’язаних із цим поданням. Лише редакційний та адміністративний персонал має доступ до редакційної історії.
 
-### <a name="submission-library"></a>Submission Library
+### <a name="submission-library"></a>Бібліотека подань
 
-A quick-access repository for any files that you'd like to track along with the submission. This is useful for files that aren't specific to any stage, such as signed contracts, marketing files, or guidelines you'd like to share with copyeditors or other assistants.
+Репозиторій швидкого доступу для будь-яких файлів, які ви хочете відстежувати разом із поданням. Це корисно для файлів, які не стосуються жодного етапу, наприклад підписаних контрактів, маркетингових файлів або вказівок, якими ви хочете поділитися з редакторами чи іншими помічниками.
 
-You can quickly add files from your [Publisher Library](settings/workflow-settings#publisher) by clicking on **View Document Library**.
+Ви можете швидко додавати файли зі своєї [Бібліотеки видавця](settings/workflow-settings#publisher) натиснувши на**Переглянути бібліотеку документів**.
 
-## <a name="editorial-actions"></a> Editorial Actions
+## <a name="editorial-actions"></a>Редакційні дії
 
-At the top right of each stage of the workflow, you'll see the editorial actions available to you. These decisions change with each stage. In most cases, they complete the current stage and forward the submission onto the next stage.
+У верхньому правому куті кожного етапу робочого процесу ви побачите редакційні дії, доступні для вас. Ці рішення змінюються з кожним етапом. У більшості випадків вони завершують поточний етап і передають подання на наступний етап.
 
-Read the [help guide](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow) for each stage to learn more about the editorial actions.
+Читайте [довідковий посібник](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow) для кожного етапу, щоб дізнатися більше про редакційні дії.
 
-## <a name="participants"></a>Participants
+## <a name="participants"></a>Учасники
 
-On the right of each stage of the workflow, you'll find a list of users who have access to this stage. You can add editorial assistants, copyeditors, layout editors or other users you'd like to have access to the current stage.
+Праворуч від кожного етапу робочого процесу ви знайдете список користувачів, які мають доступ до цього етапу. Ви можете додати помічників редакторів, редакторів вичитування, редакторів верстки чи інших користувачів, яким ви хочете надати доступ до поточного етапу.
 
-*When you add a user, that user will have access to any stages allowed by their user role*. For example, an Editor added to the Participants grid will have access to every stage. But a Copyeditor will only have access to the Copyediting stage.
+*Коли ви додаєте користувача, цей користувач матиме доступ до будь-яких етапів, дозволених його роллю користувача*. Наприклад, редактор, доданий до сітки учасників, матиме доступ до кожного етапу. Але редактор вичитування матиме доступ лише до етапу вичитування.
 
-*You won't need to add Reviewers to the Participants panel.* Once you get to the [review stages](editorial-workflow/review), you'll be able to manage the reviewers in a more convenient panel.
+*Вам не потрібно буде додавати рецензентів на панель учасників*. Як тільки ви дійдете до [етапу огляду](editorial-workflow/review), ви зможете керувати рецензентами на більш зручній панелі.

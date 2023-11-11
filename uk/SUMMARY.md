@@ -1,13 +1,11 @@
-# Summary
+# Зміст
 
-**TODO:** *перекласти*
-
-* [Introduction](README)
-* [**Подання**](submission-wizard)
-* [Reviewing](reviewing)
-* [Managing Submissions](submissions)
-* [Editorial Workflow](editorial-workflow)
-   * [Submission Stage](editorial-workflow/submission)
-   * [Review Stages](editorial-workflow/review)
-   * [Copyediting](editorial-workflow/copyediting)
-   * [Production](editorial-workflow/production)
+* [Вступ](README)
+* [Подання](submission-wizard)
+* [Рецензування](reviewing)
+* [Керування поданнями](submissions)
+* [Редакційний робочий процес](editorial-workflow)
+   * [Етап подання](editorial-workflow/submission)
+   * [Етапи рецензування](editorial-workflow/review)
+   * [Вичитування](editorial-workflow/copyediting)
+   * [Виробництво](editorial-workflow/production)

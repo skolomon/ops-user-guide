@@ -1,43 +1,42 @@
-# Copyediting
+# Вичитування
 
-1. [Orientation](copyediting#orientation)
-1. [Editorial Actions](copyediting#editorial-actions)
+1. [Орієнтація](copyediting#orientation)
+1. [Редакційні дії](copyediting#editorial-actions)
+Під час етапу вичитування редактор призначає редактора вичитування для редагування файлів, що надсилаються.
 
-During the Copyediting stage, the editor assigns a copyeditor to edit the submission files.
+Редактор вичитування, який часто є професіоналом, узгодить стиль написання з вашими редакційними настановами, покращить якість і ясність тексту, виправить будь-які граматичні помилки та підготує матеріал до перетворення на [формат публікації](production).
 
-The copyeditor, who is often a professional, will align the writing style with your editorial guidelines, improve the quality and clarity of the writing, fix any grammar, and get the submission ready for conversion to a [publication format](production).
+Це останній етап перед створенням готових для публікації форматів, таких як PDF-файли та ePub-файли. Якщо у вас немає ресурсів, щоб найняти професійного редактора вичитування, скористайтеся цим етапом, щоб уважно ознайомитися з матеріалом, перевірити будь-які факти, виправити будь-які помилки та поспілкуватися з автором, щоб з’ясувати будь-які непорозуміння.
 
-This is the last stage before you generate publication-ready formats such as PDFs and ePubs. If you do not have the resources to hire a professional copyeditor, use this stage to take a close look at the material, check any facts, correct any errors, and communicate with the author to clarify any points of confusion.
+Додайте редакторів вичитування на [панелі учасників](../editorial-workflow#participants).
+Для більш детальної інформації, див. [Вивчення OJS 3: Вичитування](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#copyediting).
 
-Add copyeditors from the [participants panel](../editorial-workflow#participants).
-For more detailed information, see [Learning OJS 3: Copyediting](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#copyediting).
+## <a name="orientation"></a>Орієнтація
 
-## <a name="orientation"></a>Orientation
+Етап вичитування містить три панелі для керування процесом вичитування.
 
-The Copyediting stage provides three panels for managing the copyediting process.
+### <a name="draft-files"></a>Чернетки файлів
 
-### <a name="draft-files"></a>Draft Files
+Усі файли, вибрані редактором для вичитування. Зазвичай це файли, які були переглянуті в результаті процесу рецензування.
 
-All files selected by the editor for copyediting. These are typically files that have been revised as a result of the review process.
+### <a name="copyediting-discussions"></a>Обговорення вичитування
 
-### <a name="copyediting-discussions"></a>Copyediting Discussions
+Редактори та редактори вичитування можуть використовувати цю панель, щоб ініціювати обговорення з автором(ами) або спілкуватися між собою. Це можна використати для роз’яснення непорозумінь, запиту додаткової інформації від автора або запиту схвалення будь-яких змін.
 
-Editors and copyeditors can use this panel to initiate discussions with the author(s) or communicate among themselves. This can be used to clarify points of confusion, request further information from the author, or request approval for any changes.
+### <a name="copyedited"></a>Вичитані
 
-### <a name="copyedited"></a>Copyedited
+Редактори вичитування можуть завантажувати остаточно відредаговані файли на цю панель. Це мають бути завершені файли, готові до [відправки у виробництво](copyediting#editorial-actions).
 
-Copyeditors can upload final edited files to this panel. These should be completed files that are ready to be [sent to production](copyediting#editorial-actions).
+*Редактори можуть також завантажувати сюди файли.*
 
-*Editors can upload files here, too.*
+### <a name="participants"></a>Учасники
 
-### <a name="participants"></a>Participants
+Редактори можуть додавати редакторів вичитування на цій панелі. [Дізнатися більше](../editorial-workflow#participants).
 
-Editors can add copyeditors from this panel. [Learn more](../editorial-workflow#participants).
+## <a name="editorial-actions"></a>Редакційні дії
 
-## <a name="editorial-actions"></a>Editorial Actions
+На цьому етапі редактори мають лише одне редакційне рішення. Якщо ви вирішите відхилити подання на цьому пізньому етапі, ви можете зробити це, повернувшись до попереднього етапу.
 
-There's only one editorial decision available to editors at this stage. If you decide to decline a submission at this late stage, you can do so by going back to a previous stage.
+### <a name="production"></a>Надіслати у виробництво
 
-### <a name="production"></a>Send to Production
-
-The editor can send the submission to the [Production stage](production) when final copyedited files are ready. Any files in the [Copyedited](copyediting#copyedited) panel will automatically be forwarded unless the editor chooses not to send them.
+Редактор може надіслати подання до [Стадії виробництва](production), коли остаточно вичитані файли будуть готові. Будь-які файли в панелі [Вичитані](copyediting#copyedited) будуть автоматично надіслані крім випадку, коли редактор вирішить їх не надсилати.

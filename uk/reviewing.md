@@ -1,49 +1,49 @@
-# Reviewing
+# Рецензування
 
-1. [Signing Up as a Reviewer](reviewing#sign-up)
-1. [Completing a Review](reviewing#complete-review)
-1. [Complete Your User Profile](reviewing#complete-user-profile)
+1. [Реєстрація як рецензент](reviewing#sign-up)
+1. [Завершення рецензування](reviewing#complete-review)
+1. [Заповніть свій профіль користувача](reviewing#complete-user-profile)
 
-Reviewers play a vital role in ensuring the quality of scholarly publishing. This chapter describes how to complete a review. For more detailed information, see [Learning OJS 3: Reviewing](https://docs.pkp.sfu.ca/learning-ojs/en/reviewing).
+Рецензенти відіграють важливу роль у забезпеченні якості наукових публікацій. У цьому розділі описано, як завершити рецензування. Для більш детальної інформації, див. [Вивчення OJS 3: Рецензування](https://docs.pkp.sfu.ca/learning-ojs/en/reviewing).
 
-## <a name="sign-up"></a>Signing Up as a Reviewer
+## <a name="sign-up"></a>Реєстрація як рецензент
 
-When you register as a user with the website, you may be asked to sign up for the reviewer role. If this has been enabled, you can add the reviewer role at any time, even if you've already registered, by going to the [User Profile](user-profile) page in the editorial backend.
+Коли ви реєструєтеся як користувач на веб-сайті, вас можуть попросити зареєструватися на роль рецензента. Якщо це ввімкнено, ви можете будь-коли додати роль рецензента, навіть якщо ви вже зареєструвалися, перейшовши на [Профіль користувача](user-profile) сторінки в редакційному сервері.
 
-You'll also be asked to specify your reviewer interests, so that editors can make better choices when selecting reviewers for a submission.
+Вас також попросять вказати ваші інтереси рецензента, щоб редактори могли зробити кращий вибір при виборі рецензентів для подання.
 
-In many cases, you may have already been added into the system as a reviewer. This happens when an editor wants to invite you to review a submission but you're not yet registered in the system.
+У багатьох випадках вас, можливо, вже додали до системи як рецензента. Це трапляється, коли редактор хоче запросити вас переглянути подання, але ви ще не зареєстровані в системі.
 
-## <a name="complete-review"></a>Completing a Review
+## <a name="complete-review"></a>Завершення рецензування
 
-You can see if you've been assigned any reviews by going to the [Submissions](submissions) page in the editorial backend. If you see any submissions in the **My Assigned** area, you can click on the link indicating it's current stage to access the reviewer walk-through.
+Ви можете перевірити, чи було призначене вам якесь рецензування, перейшовши на сторінку [Подання](submissions) на редакційному сервері. Якщо ви бачите будь-які подання в списку **Призначено мені**, ви можете натиснути посилання, яке вказує на поточний етап, щоб отримати доступ до покрокової інструкції рецензента.
 
-### <a name="complete-review-request"></a>Request
+### <a name="complete-review-request"></a>Запит
 
-The first step requests that you accept or declin the request to perform a review. You'll find the relevant submission details as well as **due dates** for responding to the request and submitting your review.
+Перший крок вимагає прийняти або відхилити запит на виконання рецензування. Ви також знайдете відповідні деталі подання і **дату виконання**, до якої Ви маєте  відповісти на запит та надіслати вашу рецензію.
 
-### <a name="complete-review-guidelines"></a>Guidelines
+### <a name="complete-review-guidelines"></a>Настанови
 
-Please read any reviewer guidelines the journal has prepared, to ensure that you're able to provide a review in the format and according to the standards desired.
+Будь ласка, прочитайте будь-які інструкції для рецензентів, які підготував журнал, щоб переконатися, що ви можете надати рецензію у форматі та відповідно до бажаних стандартів.
 
-### <a name="complete-review-review"></a>Download & Review
+### <a name="complete-review-review"></a>Завантажити та переглянути
 
-You'll find the Review Files for your to download and review on this page. Once you've evaluated the files, you'll be asked to enter your review in two text boxes.
+На цій сторінці ви знайдете файли для перегляду, які можна завантажити та переглянути. Після того, як ви оціните файли, вам буде запропоновано ввести свою рецензію у двох текстових полях.
 
-You should put *comments intended to be shared with the author* in the first text area. The second text area is for *comments intended only for the editor*.
+Ви повинні ввести *коментарі, призначені для спільного використання з автором* у першій текстовій області. Друга текстова область призначена для *коментарів, призначених лише для редактора*.
 
-The editor will have access to all of your comments. But this provides you with a way to share information privately with the editor, which may not be appopriate to share with the author.
+Редактор матиме доступ до всіх ваших коментарів. Це надає вам спосіб приватно поділитися з редактором інформацією, якою може бути недоцільно ділитися з автором.
 
-If you prepared your review in a separate file, you can instead upload that file at the bottom of the page.
+Якщо ви підготували рецензію в окремому файлі, натомість ви можете завантажити цей файл внизу сторінки.
 
-### <a name="complete-review-completion"></a>Completion
+### <a name="complete-review-completion"></a>Завершення
 
-You've completed your review. Thanks for your help ensuring the quality of scholarly publishing.
+Ви завершили рецензію. Дякуємо за вашу допомогу в забезпеченні якості наукових публікацій.
 
-An editor will take a look at it and may send you an acknowledgment by email once they've done so.
+Редактор перегляне її та може надіслати вам підтвердження електронною поштою, щойно це зробить.
 
-A record of your reviews is kept in the system, so editors can see -- and appreciate -- how many reviews you've done for the journal at all times.
+Тексти ваших рецензій зберігаються в системі, щоб редактори могли бачити -- і оцінювати -- скільки оглядів ви зробили для журналу за весь час.
 
-## <a name="complete-user-profile"></a>Complete Your User Profile
+## <a name="complete-user-profile"></a>Заповніть свій профіль користувача
 
-You can fill out more complete information about yourself if you haven't yet. This is a great way to ensure the editors have all the information they need to make great choices for reviewers. Take a look at the [User Profile](user-profile) section to learn more.
+Ви можете заповнити більш повну інформацію про себе, якщо ви цього ще не зробили. Це чудовий спосіб забезпечити, щоб редактори мали всю необхідну інформацію, щоб зробити правильний вибір для рецензентів. Див. розділ [Профіль користувача](user-profile), щоб дізнатися більше.

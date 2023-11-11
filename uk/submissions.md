@@ -1,47 +1,45 @@
-# Submissions
+# Керування поданнями
 
-**TODO:** *перекласти*
+1. [Розпочати нове подання](submissions#new-submission)
+1. [Моя черга](submissions#my-queue)
+1. [Всі активні](submissions#active)
+1. [Архіви](submissions#archives)
+1. [Швидко знайдіть матеріали](submissions#find-quickly)
 
-1. [Start A New Submission](submissions#new-submission)
-1. [My Queue](submissions#my-queue)
-1. [All Active](submissions#active)
-1. [Archives](submissions#archives)
-1. [Find Submissions Quickly](submissions#find-quickly)
+Отримайте доступ до будь-яких заявок, які зараз розглядаються, зі сторінки «Подання».
 
-Access any submissions currently under consideration from the Submissions page.
+Користувачі з редакційними та адміністративними правами також мають доступ до всіх опублікованих і заархівованих матеріалів, а також швидкий доступ до поширених типів матеріалів, щоб допомогти керувати їхнім редакційним процесом.
 
-Editorial and administrative users also have access to all published and archived submissions, and quick-access to common types of submissions to help manage their editorial queue.
+## <a name="new-submission"></a>Розпочати нове подання
 
-## <a name="new-submission"></a>Start A New Submission
-
-You can start a new submission by clicking the **New Submission** button which appears above each of the submission lists. For more information, see [Learning OJS 3: Submitting an Article](https://docs.pkp.sfu.ca/learning-ojs/en/authoring#submitting-an-article).
+Ви можете розпочати нове подання, натиснувши кнопку **Нове подання**, що з’являється над кожним зі списків подання. Для отримання додаткової інформації, див. [Вивчення OJS 3: Подання статті](https://docs.pkp.sfu.ca/learning-ojs/en/authoring#submitting-an-article).
 
 Дивіться детальніше [Покроковий Майстер подання](submission-wizard).
 
-## <a name="my-queue"></a>My Queue
+## <a name="my-queue"></a>Моя черга
 
-This tab provides information about submissions currently assigned to you. Use this tab to keep up with your day-to-day activities.
+Ця вкладка містить інформацію про подання, призначені вам. Використовуйте цю вкладку, щоб бути в курсі поточних задач.
 
-Editors will see notices when review assignments are overdue. Reviewers can track the due dates for their assignments. And authors can keep track of what stage their submissions are in.
+Редактори бачитимуть сповіщення про прострочені призначення. Рецензенти можуть відстежувати терміни виконання своїх завдань. І автори можуть відстежувати, на якому етапі перебувають їхні роботи.
 
-## <a name="unassigned"></a>Unassigned
+## <a name="unassigned"></a>Непризначені
 
-Journal Managers can view any new submissions which have not yet been assigned an editor or section editor. Use this tab to ensure each submission has an editor assigned to manage the workflow.
+Менеджери журналу можуть переглядати будь-які нові матеріали, яким ще не призначено редактора або редактора розділу. Використовуйте цю вкладку, щоб переконатися, що для кожного подання призначено редактора для керування робочим процесом.
 
-## <a name="active"></a>Active
+## <a name="active"></a>Активні
 
-Find any submissions in the system that haven't been published or declined. Only editorial and administrative users have access to this tab. Fore more detailed information, see [Learning OJS 3: Submissions](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#submissions).
+Знайдіть у системі будь-які подання, які не були опубліковані або відхилені. Доступ до цієї вкладки мають лише користувачі з редакційними та адміністративними правами. Для більш детальної інформації, див. [Вивчення OJS 3: Керування поданнями](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#submissions).
 
-## <a name="archives"></a>Archives
+## <a name="archives"></a>Архівоване
 
-Find submissions that have been published or declined. Any submissions no longer undergoing the editorial workflow can be found here.
+Знайдіть матеріали, які були опубліковані або відхилені. Усі матеріали, які більше не проходять редакційний процес, можна знайти тут.
 
-## <a name="find-quickly"></a>Find Submissions Quickly
+## <a name="find-quickly"></a>Швидко знайдіть матеріали
 
-### Searching Large Lists
+### Пошук у великих списках
 
-Use the search panel above the list to locate submissions in a large list. You can find submissions by title, author, and ID number.
+Використовуйте панель пошуку над списком, щоб знайти подання у великому списку. Ви можете знайти матеріали за назвою, автором та ідентифікаційним номером.
 
-### Filtering Large Lists
+### Фільтрування великих списків
 
-Click the **Filter** button to expand a set of search filters. You can quickly locate all submissions with overdue reviews, those in a specific stage of the workflow, or those submitted to a specific section.
+Натисніть на кнопку **Фільтр** для розширення набору пошукових фільтрів. Ви можете швидко знайти всі подання з простроченими рецензіями, ті, що знаходяться на певному етапі робочого процесу, або ті, що надіслані до певного розділу.

@@ -1,16 +1,16 @@
-# OJS 3.0 User Guide
+# Посібник користувача OJS 3.0
 
-This guide will help you publish journals and issues with Open Journal Systems.
+Цей посібник допоможе вам публікувати журнали та випуски за допомогою Open Journal Systems.
 
-It provides an introductory overview for each stage of the workflow from submission to production. It also provides further background information on some of the configuration options.
+Він містить вступний огляд кожного етапу робочого процесу від подання до виробництва. Тут також надається додаткова довідкова інформація щодо деяких параметрів конфігурації.
 
-When you see **Help** links within the application, they'll open a help panel with the most useful information for that section.
+Коли побачите посилання **Довідка** на сайті, воно відкриє панель довідки з найбільш корисною інформацією для цього розділу.
 
-A more detailed look at this software is available in [Learning OJS 3](https://docs.pkp.sfu.ca/learning-ojs/en/).
+Більш детальний огляд цього програмного забезпечення доступний у [Вивчення OJS 3](https://docs.pkp.sfu.ca/learning-ojs/en/).
 
 --
 
-Copyright: Simon Fraser University holds the copyright for work produced by the Public Knowledge Project and has placed its documentation under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+Авторське право: Університет Саймона Фрейзера володіє авторським правом на роботу, створену Public Knowledge Project, і помістив її документацію під [Міжнародною ліцензією Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/).
 
 [![](https://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons Attribution 4.0 International")](http://creativecommons.org/licenses/by/4.0/)
 

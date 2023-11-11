@@ -1,46 +1,46 @@
-# Review Stages
+# Етапи рецензування
 
-1. [Orientation](review#orientation)
-1. [Editorial Actions](review#editorial-actions)
+1. [Орієнтація](review#orientation)
+1. [Редакційні дії](review#editorial-actions)
 
-During the Review stage, the editor assigns reviewers to the submission.
+На етапі рецензування редактор призначає рецензентів на подання.
 
-Once the reviewers have submitted their reviews and recommendations, the editor is responsible for making an editorial decision, which will determine whether the submission is ready for the Copyediting stage or requires further revisions.
+Після того, як рецензенти нададуть свої рецензії та рекомендації, редактор несе відповідальність за прийняття редакційного рішення, яке визначить, чи готове подання до етапу вичитування, чи потребує подальшого перегляду.
 
-By default, the review stages begin in *Round 1* of reviews. Further rounds may be initiated if the editor requests major changes that must go through another round of review. For more detailed information, see [Learning OJS 3: Review](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#review).
+За замовчуванням етапи рецензування починаються з *1-го раунду* рецензування. Подальші раунди можуть бути ініційовані, якщо редактор вимагає серйозних змін, які повинні пройти ще один раунд рецензування. Для більш детальної інформації, побачити [Вивчення OJS 3: огляд](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#review).
 
-## <a name="orientation"></a>Orientation
+## <a name="orientation"></a>Орієнтація
 
-Each review round consists of sections for managing review files and reviewers, along with the discussions and participants section that appear on every stage.
+Кожен раунд рецензування складається з розділів для керування файлами рецензування та рецензентами, а також розділу обговорень та учасників, які з’являються на кожному етапі.
 
-### <a name="review-files"></a>Review Files
-All the files selected by the editor for review. These files will be visible to reviewers unless restricted when assigning the reviewer.
+### <a name="review-files"></a>Файли для рецензування
+Усі файли, відібрані редактором для рецензування. Ці файли будуть видимі рецензентам, якщо вони не накладено обмеження під час призначення рецензента.
 
-### <a name="reviewers"></a>Reviewers
-Editors can add reviewers, assign due dates, and monitor the status and recommendations of the reviews. When a review has been completed, the editor can view and confirm the review to acknowledge that they've read it.
+### <a name="reviewers"></a>Рецензенти
+Редактори можуть додавати рецензентів, призначати терміни виконання та відстежувати стан та рекомендації рецензій. Коли рецензування завершено, редактор може переглянути та підтвердити рецензію, щоб підтвердити, що він її прочитав.
 
-### <a name="revisions"></a>Revisions
-Revised files uploaded by the author. During the review process, the editor may request revisions from the author. Once uploaded, they appear here and will be available to send to the Copyediting stage once they've passed review.
+### <a name="revisions"></a>Доопрацювання
+Доопрацьовані файли, завантажені автором. Під час рецензування редактор може вимагати від автора доопрацювання. Після завантаження ці файли з’являються тут і будуть доступні для передачі на етап вичитування, щойно вони пройдуть рецензування.
 
-### <a name="discussions"></a>Review Discussions
-Editors and sub-editors can initiate private conversations among themselves or with reviewers or authors. Authors cannot initiate discussions or communicate directly with reviewers.
+### <a name="discussions"></a>Обговорення рецензування
+Редактори та підредактори можуть ініціювати приватні обговорення між собою або з рецензентами чи авторами. Автори не можуть ініціювати обговорення або безпосередньо спілкуватися з рецензентами.
 
-The review discussions are not particular to any one round and will carry over to subsequent rounds if a new review round is initiated.
+Обговорення рецензування не стосуються окремого раунду та будуть перенесені на наступні раунди, якщо буде розпочато новий раунд перегляду.
 
-### <a name="participants"></a>Participants
-Editors and sub-editors can add additional users to this stage to assist them in managing the review process. This is commonly used by an editor who wants a sub-editor to handle the day-to-day communications with reviewers. [Learn more](../editorial-workflow#participants).
+### <a name="participants"></a>Учасники
+Редактори та підредактори можуть додавати додаткових користувачів на цьому етапі, щоб допомогти їм керувати процесом рецензування. Це зазвичай використовується редактором, який хоче, щоб підредактор відповідав за повсякденне спілкування з рецензентами. [Дізнайтеся більше](../editorial-workflow#participants).
 
-## <a name="editorial-actions"></a>Editorial Actions
-The editor can make one of several editorial actions during each round of the review stage. Each of these decisions automatically notifies the author by email.
+## <a name="editorial-actions"></a>Редакційні дії
+Редактор може виконати одну з кількох редакційних дій під час кожного етапу рецензування. Кожне з цих рішень автоматично сповіщає автора електронною поштою.
 
-### <a name="request-revisions"></a>Request Revisions
-The editor can request revisions from the author without opening a new review round. This is common when minor revisions are required which the editor can approve without resubmitting for  review.
+### <a name="request-revisions"></a>Запит на доопрацювання
+Редактор може вимагати від автора доопрацювання, не відкриваючи новий раунд рецензування. Це звичайне явище, коли потрібні незначні зміни, які редактор може схвалити без повторного надсилання на рецензування.
 
-### <a name="new-review"></a>Resubmit for Review
-The editor can request revisions from the author that will need to go through another round of review. Once revisions are received, a new review round will need to be created at the top of the review stage.
+### <a name="new-review"></a>Повторне направлення на рецензування
+Редактор може вимагати від автора доопрацювань, які повинні будуть пройти ще один раунд рецензування. Після отримання доопрацювань необхідно буде створити новий раунд рецензування на початку етапу рецензування.
 
-### <a name="copyediting"></a>Send to Copyediting
-The editor can initiate the [Copyediting stage](copyediting) once it has passed the required review stage.
+### <a name="copyediting"></a>Направлення на вичитування
+Редактор може ініціювати [етап вичитування](copyediting) після того, як подання пройде необхідний етап рецензування.
 
-### <a name="decline"></a>Decline Submission
-The editor can decline the submission if it does not pass review. The submission will be removed from the editorial workflow and sent to the Archives.
+### <a name="decline"></a>Відхилення подання
+Редактор може відхилити подання, якщо воно не пройшло рецензування. Подання буде вилучено з редакційного процесу та надіслано до архіву.
